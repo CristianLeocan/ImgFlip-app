@@ -1,0 +1,31 @@
+footer {    
+    margin-top: 10%;
+    text-indent: 15px;    
+}
+
+.dark--footer {
+    margin-top: 10%;
+    text-indent: 10px;   
+    background-color: rgb(180, 180, 180);
+    border-radius: 15px;
+}
+
+.dark--title {
+    float:left;
+    width:100%;
+    border: 1px solid #333;
+    border-radius: 25px;
+    padding-top: 0.15em;
+    padding-bottom: 0.15em;
+    background-color:rgb(180, 180, 180);    
+}
+
+.footer--title {    
+    float:left;
+    width:100%;
+    border: 1px solid #333;
+    border-radius: 25px;
+    padding-top: 0.15em;
+    padding-bottom: 0.15em;  
+    background-color: bisque;  
+}
